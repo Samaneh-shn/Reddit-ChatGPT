@@ -10,7 +10,7 @@ ___
 The initial step was to unpack the overarching trends within the subreddit. This involved a trend analysis, illustrating the distribution of posts across different timeframes - be it monthly, daily, or other specified intervals. Such analysis offers a temporal perspective on the ebb and flow of discussions related to ChatGPT.
 
 <img src="https://github.com/Samaneh-shn/Reddit-ChatGPT/assets/120117013/af96c065-8a01-44d6-9a30-10a74cae2ab3" alt="image">
-<img src="https://github.com/Samaneh-shn/Reddit-ChatGPT/assets/120117013/6574143e-6acd-42b6-b68c-6cd7be3b4e7d" alt="image">
+<img src="https://github.com/Samaneh-shn/Reddit-ChatGPT/assets/120117013/6574143e-6acd-42b6-b68c-6cd7be3b4e7d" alt="image" width="400" height="400">
 
 ## Word Frequency Analysis: 
 To understand the vocabulary and recurrent themes, a word frequency analysis was conducted. This gave insight into the most commonly used words, reflecting the primary subjects of interest and buzzwords in the ChatGPT discussions.
@@ -22,7 +22,7 @@ To understand the vocabulary and recurrent themes, a word frequency analysis was
 ## Sentiment Analysis: 
 A critical component of the study was to gauge the sentiment of the community towards ChatGPT. This involved assessing the sentiment distribution in both post titles and comments. Furthermore, the project spotlighted the most prevalent words associated with each sentiment label, providing a nuanced understanding of positive, negative, and neutral sentiments.
 
-<img src="https://github.com/Samaneh-shn/Reddit-ChatGPT/assets/120117013/a9ff1b1c-4eaa-49d4-9be2-6e36f89e8590" alt="image">
+<img src="https://github.com/Samaneh-shn/Reddit-ChatGPT/assets/120117013/a9ff1b1c-4eaa-49d4-9be2-6e36f89e8590" alt="image" width="400" height="400">
 <img src="https://github.com/Samaneh-shn/Reddit-ChatGPT/assets/120117013/57ac68c7-32f3-4353-a1a9-ea59d4c4455f" alt="image">
 
 
